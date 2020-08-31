@@ -1,0 +1,4 @@
+Seq Number:0 Offset:363 Hypen Location:85
+Seq Number:1 Offset:126 Hypen Location:41
+Seq Number:2 Offset:855 Hypen Location:51
+Seq Number:3 Offset:975 Hypen Location:245
